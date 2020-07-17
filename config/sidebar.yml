@@ -2134,6 +2134,7 @@ libraries:
 
       - title: "Migrate from auth0.js"
         url: /libraries/auth0-spa-js/migrate-from-auth0js
+        hidden: true
 
   - title: "Auth0 React SDK"
     url: "/libraries/auth0-react"
@@ -2156,6 +2157,7 @@ libraries:
 
       - title: "Migration Guide"
         url: "/libraries/lock/v11/migration-guide"
+        hidden: true
 
       - title: "Internationalization"
         url: "/libraries/lock/v11/i18n"
@@ -2187,6 +2189,7 @@ libraries:
 
       - title: "Migration Guide"
         url: "/libraries/lock-ios/v2/migration"
+        hidden: true
 
   - title: "Lock for Android"
     url: "/libraries/lock-android/v2"
@@ -2212,6 +2215,7 @@ libraries:
 
       - title: "Migration v1 to v2"
         url: "/libraries/lock-android/v2/migration-guide"
+        hidden: true
 
       - title: "Internationalization"
         url: "/libraries/lock-android/v2/internationalization"
@@ -2228,6 +2232,7 @@ libraries:
 
       - title: "Migration Guide"
         url: "/libraries/auth0js/v9/migration-guide"
+        hidden: true
 
   - title: "Auth0 SDK for iOS"
     url: "/libraries/auth0-swift"
